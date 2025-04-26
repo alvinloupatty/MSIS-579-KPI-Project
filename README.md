@@ -1,4 +1,4 @@
-# MSIS-579-KPI-Project #
+# MSIS-579-Metrics-Lost-in-Translation-Project #
 
 MetricAlign: AI-Powered Metrics Reconciliation
 
@@ -94,13 +94,21 @@ Publishing Standards: Finalizing and distributing approved metrics
 
 👥 Team
 Mubasheer - Team Scenario Cards Feature (show conflicting outcomes for each KPI)
+
 Jinyao - Alignment Scorecard Feature (assigns each team a score based on how well their KPIs align with others)
+
 Lexie - KPI Glossary Generator Feature (auto-aligns metric names and definitions)
+
 Helen - Translation Button (rewords metrics across team contexts Feature)
+
 Bargo - Priority Index Feature (rates the business impact of each KPI)
+
 Prathik - Funnel Alignment Chart Feature (maps each KPI to funnel stage)
+
 Anna - AI Output Box Feature (displays contradictions and suggests fixes)
+
 Alvin - Conflict Flags (highlight vague, overlapping, or incompatible definitions)
+
 Erin - Wrap up and compile all codes to set it up as a platform solution
 
 🙏 Acknowledgments
