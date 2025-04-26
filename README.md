@@ -2,6 +2,8 @@
 
 MetricAlign: AI-Powered Metrics Reconciliation
 
+Link to the project platform: https://v0-new-project-kt5zfv2qi9k.vercel.app/
+
 🔍 Problem Statement
 Organizations frequently encounter the "metrics lost in translation" problem - where different teams define and interpret key performance indicators (KPIs) differently:
 
