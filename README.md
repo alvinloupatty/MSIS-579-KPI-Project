@@ -92,7 +92,8 @@ Identifying Conflicts: System flags potentially conflicting metrics
 Resolving Discrepancies: Collaborative workflow for standardizing definitions
 Publishing Standards: Finalizing and distributing approved metrics
 
-👥 Team
+👥 Team Members
+
 Mubasheer - Team Scenario Cards Feature (show conflicting outcomes for each KPI)
 
 Jinyao - Alignment Scorecard Feature (assigns each team a score based on how well their KPIs align with others)
