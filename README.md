@@ -20,7 +20,7 @@ Data-driven decisions become impossible when comparing "apples to oranges"
 Cross-functional collaboration breaks down due to metric inconsistencies
 Leadership lacks a unified view of organizational performance
 
-💡 Our Solution: MetricAlign
+💡 Our Solution: 
 MetricAlign is an AI-powered web platform that addresses the metrics translation problem through collaborative terminology management, real-time metrics reconciliation, and clear visualizations of metric relationships across teams.
 
 Core Features
